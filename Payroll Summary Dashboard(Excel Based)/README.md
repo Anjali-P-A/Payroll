@@ -17,6 +17,6 @@ This is an Excel-based payroll summary dashboard designed for analyzing employee
 - Department-wise Net Salary Comparison
 - KPIs like Total Final Salary, Total Employees, Highest Final Salary
 
-- 
+ 
 
-- <img width="1271" height="455" alt="Screenshot 2025-07-14 212807" src="https://github.com/user-attachments/assets/f9a94c84-62ea-4b65-ac92-179db74a6725" />
+ <img width="1271" height="455" alt="Screenshot 2025-07-14 212807" src="https://github.com/user-attachments/assets/f9a94c84-62ea-4b65-ac92-179db74a6725" />
